@@ -1,0 +1,11 @@
+School Domain E-mail
+E-mail Password
+Name of Class 1
+Web-browser Zoom Link for Class 1
+Meeting Password for Class 1
+Name of Class 2
+Web-browser Zoom Link for Class 2
+Meeting Password for Class 2
+Name of Class 3
+Web-browser Zoom Link for Class 3
+Meeting Password for Class 4
